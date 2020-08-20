@@ -1,2 +1,2 @@
 # anupamhaldkar.github.io
-## Responsive 🧧 Portfolio based on gatsby 
+## This is a 🧧 Portfolio Website based on gatsby framework
