@@ -1,8 +1,12 @@
 ---
-title: 'Hi🖐, my name is'
+title: 'Hi🖐, My name is'
 name: 'Anupam Haldkar'
-subtitle: 'I Love technologies that are live on the internet.'
+subtitle: 'Tech enthusiast shaping the digital landscape'
 buttonText: 'Get In Touch🖐 '
 ---
 
-I'm a software developer specializing in building (and occasionally designing) exceptional websites, and applications.
+As a developer, my passion lies in crafting exceptional user experiences. I channel my insights and creativity into content writing within the dynamic realm of technology.
+
+Working as Software engineer contributing expertise to the dynamic tech landscape at <a href="https://www.infosys.com">Infosys</a> with a penchant for <a href="https://anupamhaldkar.medium.com">blogging</a>.
+
+ 
