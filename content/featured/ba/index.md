@@ -10,5 +10,5 @@ tech:
 showInProjects: true
 ---
 
-An Android based project  on Cab Service Utilities , MVP Architecture with the help of Google Maps API
+An Android based project on Cab Service Utilities , MVP Architecture with the help of Google Maps API
 written in kotlin.

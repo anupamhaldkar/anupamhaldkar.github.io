@@ -1,19 +1,22 @@
 ---
-title: 'About Me 🖋'
-avatar: './me.jpg'
+title: 'About  🖋'
+avatar: './profile-pic.png'
 skills:
-  - Android 
-  - HTML & (S)CSS
-  - Thymleaf
-  - postgres
-  - Java programmer 
-  - Spring boot
+  - Java  
+  - Spring boot & Maven
+  - Elastic Search
+  - Junit & Mockito
+  - CI/CD - Jenkins
+  - Apache Kafka 
 ---
 
-Howdy! I'm Anupam, a software Developer pursuing bachelor degree in <a target="_blank" href="https://www.lnct.ac.in">L N C T</a>, Bhopal.
 
-I enjoy creating things that are live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect.
+I embarked on my journey in the tech during my freshman year at [Lakshmi Narain College Of Technology, Bhopal](https://lnct.ac.in/). I completed my Bachelor's in Computer Science and Engineering from 2017 to 2021, graduating with a commendable aggregate of 86.2%.
 
-I work on a wide variety of interesting and meaningful projects.
+I am a Dedicated IT professional at [Infosys Ltd.](https://www.infosys.com/), specializing in Java Spring Boot microservices for an airline project since February 2023. This role has provided me with valuable insights into microservices architecture, and I have honed my skills in Java and Spring Boot.
 
-Here are a few technologies I've been working with recently:
+My journey in the IT industry commenced at [Cognizant Ltd.](https://cognizant.com) In this role, I kickstarted my career as an Infra Developer, specializing in ServiceNow.
+
+I am passionate about leveraging my technical expertise to drive positive impacts on projects and am always eager to explore new challenges and technologies in the dynamic field of software development.
+
+Here are the few technologies I've been experienced with :

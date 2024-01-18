@@ -1,16 +1,16 @@
 module.exports = {
   siteTitle: 'Anupam Haldkar | Software Engineer',
   siteDescription:
-    'I am a software developer specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+    'Software engineer contributing expertise to the dynamic tech landscape with a penchant for blogging.',
   siteKeywords:
-    'Anupam Haldkar, Anupam, Haldkar, anupamhaldkar, software engineer, front-end engineer, web developer, javascript, bhopal, smartup',
+    'Anupam Haldkar, SDE, katni, , Anupam, Haldkar, anupamhaldkar, software engineer, front-end engineer, web developer, javascript, bhopal, smartup',
   siteUrl: 'https://github.com',
   siteLanguage: 'en_US',
-  googleAnalyticsID: '',
+  googleAnalyticsID: 'drtd',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Anupam Haldkar',
-  location: 'Bhopal, MP',
-  email: 'ahdev2020@outlook.com',
+  location: 'Pune, Maharashtra',
+  email: 'anupam.haldkar@outlook.com',
   github: 'https://github.com/anupamhaldkar',
   twitterHandle: '@AnupamHaldkar',
   socialMedia: [
@@ -20,15 +20,15 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/anupam-haldkar-a54777131/',
+      url: 'https://www.linkedin.com/in/anupamhaldkar',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/__procli/',
+      url: 'https://www.instagram.com/ahdev2020',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/AnupamHaldkar',
+      url: 'https://twitter.com/intent/follow?screen_name=anupamhaldkar',
     },
   ],
 
@@ -38,11 +38,11 @@ module.exports = {
       url: '/#about',
     },
     {
-      name: 'Experience',
+      name: 'Work Experience',
       url: '/#jobs',
     },
     {
-      name: 'Work',
+      name: 'Projects',
       url: '/#projects',
     },
     {

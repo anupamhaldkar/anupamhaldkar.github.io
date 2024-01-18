@@ -1,12 +1,13 @@
 ---
-date: '2016-12-21'
-title: 'Affialator'
-company: 'Creators Club Of India'
-location: 'Mumbai, MH'
-range: 'June - July 2020'
-url: 'https://www.creatorsclub.in/'
+date: '2021-08 -03'
+title: 'Programmer Analyst'
+company: 'Cognizant'
+location: 'Pune, MH(Remote)'
+range: 'Aug 2021 - Nov 2022'
+url: 'https://www.cognizant.com/'
 ---
 
-- Make people Aware about the <a target="_blank" href="https://www.creatorsclub.in/entries/">“Art for All”</a> competition
-- Used Marketing tactics and Social media demographics for knowing marketing personas and understand the audience in greater detail.
-- Promoted the Facebook <a href="https://facebook.com/events/s/art-for-all-online-art-drawing/3252130461513899/?ti=icl" target="_blank"> event </a>
+
+- Played a key role in weekly enhancements, leading to a 20% improvement in system performance and user satisfaction.
+- Implemented a service request fulfillment system, reducing resolution time by 50% and achieving a customer satisfaction rating of 95%.
+- Involved in CI Configuration changes including business applications, and mapped application services per the cut-over request having limited time constraints.

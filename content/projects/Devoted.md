@@ -1,14 +1,13 @@
 ---
-date: '2018-12-01'
-title: 'Devoted Health'
-github: ''
-external: 'https://www.devoted.com/'
+date: '2020-09-12'
+title: 'Airline System'
+github: 'https://github.com/anupamhaldkar/Airline-Reservation-System'
+external: ''
 tech:
-  - Gatsby
-  - TypeScript
-  - Algolia
-company: 'Upstatement'
+  - PHP
+  - SQL
+company: 'L N C T'
 showInProjects: false
 ---
 
-A site for a revolutionary healthcare company, including an Algolia instant search integration
+This is a PHP-based website designed for seamless flight booking experiences with a comprehensive CRUD operations.

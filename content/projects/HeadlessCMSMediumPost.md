@@ -1,14 +1,13 @@
 ---
-date: '2019-11-12'
-title: 'Building a Headless Mobile App CMS From Scratch'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/building-a-headless-mobile-app-cms-from-scratch-bab2d17744d9'
+date: '2020-07-11'
+title: 'Profile Chrome Extension'
+github: 'https://github.com/anupamhaldkar/ChromeExtension'
+external: 'https://anupamhaldkar.medium.com/how-to-create-a-chrome-extension-within-10-15-minutes-7971e5a7e939'
 tech:
-  - Node
-  - Express
-  - Firebase
-  - Vue
-company: 'Upstatement'
+  - Javascript
+  - HTML
+  - CSS
+company: 'Self'
 showInProjects: true
 ---
 

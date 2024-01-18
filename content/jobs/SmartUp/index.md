@@ -1,9 +1,9 @@
 ---
 date: '2017-12-21'
-title: 'Developer/Lead '
+title: 'Developer Intern'
 company: 'SmartUp'
 location: 'Bhopal, MP'
-range: 'Sept 2017- present'
+range: 'Sept - Dec 2017'
 url: 'https://www.linkedin.com/company/smartupt/'
 ---
 

@@ -1,12 +1,13 @@
 ---
-date: '2018-12-29'
-title: 'Google Keep Clone'
-github: 'https://github.com/bchiang7/google-keep-vue-firebase'
-external: 'https://keep-vue.netlify.com/'
+date: '2020-05-14'
+title: 'Ride Sharing'
+github: 'https://github.com/anupamhaldkar/RideSharingProject'
+external: ''
 tech:
-  - Vue
-  - Firebase
-showInProjects: true
+  - Kotlin
+  - Google Maps API
+company: 'MindOrks'
+showInProjects: false
 ---
 
-A simple Google Keep clone built with Vue and Firebase.
+This is Android project based on Cab Service Utilities , MVP Architecture with the help of Google Maps API

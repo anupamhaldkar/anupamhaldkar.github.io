@@ -141,13 +141,14 @@ const Projects = ({ data }) => {
   const GRID_LIMIT = 6;
   const projects = data.filter(({ node }) => node);
   const firstSix = projects.slice(0, GRID_LIMIT);
-  const projectsToShow = showMore ? projects : 0;
+  const projectsToShow = showMore ? projects : firstSix;
 
   return (
     <StyledContainer>
-      <StyledTitle ><a href="https://github.com/anupamhaldkar">Inspiring Quote -<br></br> <br></br>💪HardWork beats Talent 😎 when talent fails to work Hard<br></br></a></StyledTitle>
+      {/* <StyledTitle ><a href="https://github.com/anupamhaldkar">Inspiring Quote -<br></br> <br></br>💪HardWork beats Talent 😎 when talent fails to work Hard<br></br></a></StyledTitle> */}
+      <StyledTitle ref={revealTitle}>Other Noteworthy Projects</StyledTitle>
       <StyledArchiveLink to="/archive" ref={revealArchiveLink}>
-       
+       View All Projects
       </StyledArchiveLink>
     
       <StyledGrid>

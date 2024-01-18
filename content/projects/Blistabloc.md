@@ -1,14 +1,15 @@
 ---
-date: '2018-05-01'
-title: 'blistabloc'
-github: ''
-external: 'https://blistabloc.com/'
+date: '2019-08-01'
+title: 'Auto Name Updater'
+github: 'https://github.com/anupamhaldkar/Auto-Name-Updater'
+external: ''
 tech:
-  - WordPress
-  - Timber
-  - WooCommerce
-company: 'Scout'
+  - Python
+  - Twitter-API
+company: 'Self'
 showInProjects: false
 ---
 
-Custom WordPress theme and e-commerce site built with Timber and WooCommerce for blistabloc, a start-up selling the only reactive shoe insert that prevents blisters from forming.
+This bot will automatically change your name based on your twitter followers (Written in Python)
+
+

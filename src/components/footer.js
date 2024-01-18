@@ -100,10 +100,13 @@ const Footer = () => {
       </StyledSocial>
       <StyledMetadata tabindex="-1">
         <StyledGitHubLink
-          href="https://github.com/anupamhaldkar"
+          href="https://github.com/bchiang7/v4"
           target="_blank"
           rel="nofollow noopener noreferrer">
-          <div>Created with ❤ by Anupam Haldkar</div>
+            <div>
+              Designed & made by Brittany Chiang<br></br>
+              revised with ❤ by Anupam Haldkar
+          </div>
 
           {githubInfo.stars && githubInfo.forks && (
             <StyledGitHubInfo>

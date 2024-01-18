@@ -1,13 +1,13 @@
 ---
-date: '2018-10-01'
-title: 'Flagship Pioneering'
-github: ''
-external: 'https://www.flagshippioneering.com/'
+date: '2020-10-01'
+title: 'Selenium Automation Test'
+github: 'https://github.com/anupamhaldkar/SpringProject'
+external: ''
 tech:
-  - Craft CMS
-  - Chart.js
-company: 'Upstatement'
+  - Webdriver.io
+  - Selenium
+company: 'Self'
 showInProjects: false
 ---
 
-A marketing site for an ambitious life sciences venture capital company.
+This project Comprises of Spring Boot , thymeleaf MyBatis H2Database and Junit and Selenium testing.

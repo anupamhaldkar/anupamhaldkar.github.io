@@ -1,14 +1,17 @@
 ---
-date: '2017-12-01'
-title: 'Apple Music Embeddable Web Player Widget'
-github: ''
-external: 'https://tools.applemusic.com/en-us'
+date: '2024-01-02'
+title: 'Note Making Application'
+github: 'https://github.com/anupamhaldkar/assessment'
+external: ''
 tech:
-  - MusicKit.js
-  - JS
-  - SCSS
-company: 'Apple'
+  - Spring Boot
+  - RestAPI
+  - MongoDB
+company: 'Self'
 showInProjects: true
 ---
 
-Embeddable web player widget for Apple Music that lets users log in and listen to full song playback in the browser leveraging [MusicKit.js](https://developer.apple.com/documentation/musickitjs). Read more about this project on [9to5Mac](https://9to5mac.com/2018/06/03/apple-music-embeddable-web-player-listen-browser/).
+secure and scalable RESTful API that allows users to create, read, update, and delete notes. allow users to share their notes with other users and Full text search for notes based on keywords.
+
+
+

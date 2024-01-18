@@ -1,12 +1,12 @@
 ---
-date: '2019-11-25'
-title: 'Upstatement.com'
-github: ''
-external: 'https://www.upstatement.com/'
+date: '2020-09-19'
+title: 'Liquid Button'
+github: 'https://github.com/anupamhaldkar/liquid-button'
+external: ''
 tech:
-  - Nuxt
-  - Vue
-  - Prismic
-company: 'Upstatement'
+  - React
+  - CSS
+company: 'Self'
 showInProjects: false
 ---
+
