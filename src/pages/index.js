@@ -31,7 +31,10 @@ export default IndexPage;
 
 export const pageQuery = graphql`
   {
-    hero: allMarkdownRemark(filter: { fileAbsolutePath: { regex: "/hero/" } }) {
+    hero: allMarkdownRemark(
+    filter: { fileAbsolutePath: { regex: "/hero/" } }
+    sort: { fields: [frontmatter___date], order: DESC }
+    ) {
       edges {
         node {
           frontmatter {
