@@ -24,12 +24,16 @@ module.exports = {
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/ahdev2020',
+      url: 'https://www.instagram.com/anupamhaldkar',
     },
     {
       name: 'Twitter',
       url: 'https://twitter.com/intent/follow?screen_name=anupamhaldkar',
     },
+    {
+      name: 'Medium',
+      url: 'https://anupamhaldkar.medium.com',
+    }
   ],
 
   navLinks: [

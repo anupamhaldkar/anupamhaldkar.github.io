@@ -15,6 +15,7 @@ import {
   IconPlayStore,
   IconStar,
   IconTwitter,
+  IconMedium,
   IconZap,
 } from '@components/icons';
 
@@ -48,6 +49,8 @@ const FormattedIcon = ({ name }) => {
       return <IconStar />;
     case 'Twitter':
       return <IconTwitter />;
+    case  'Medium':
+      return <IconMedium />;
     case 'Zap':
       return <IconZap />;
     default:
