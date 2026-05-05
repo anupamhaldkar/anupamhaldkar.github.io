@@ -1,13 +1,17 @@
 ---
-date: '3'
-title: 'Covid19Tracker'
-cover: './Annotation 1.png'
-github: 'https://github.com/anupamhaldkar/Covid-19Tracker-StaySafe'
+date: '1'
+title: 'Pool Lens - AI Talent Allocation'
+cover: './pool_talent.png'
+github: 'https://github.com/anupamhaldkar'
 tech:
-  - Glide Load
-  - Kotlin
-  - COVID19-India API
+  - FastAPI
+  - React (Vite)
+  - ChromaDB
+  - Azure OpenAI
+  - Python
+  - Vector Embeddings
+  - RAG
 showInProjects: true
 ---
 
-Coronavirus Tracker for Android which shows data of confirmed cases, recovered cases and death cases in India.You can also get state-wise data.This application first connect to API to get Data. It saves the data to Local DB and fetched it and shows to UI everytime App is opened.
+AI-driven talent allocation system with semantic search and intelligent candidate matching using vector embeddings and Azure OpenAI.

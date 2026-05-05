@@ -1,22 +1,44 @@
 ---
 title: 'About  🖋'
-avatar: './profile-pic.png'
+avatar: './profile-image.JPG'
 skills:
-  - Java  
-  - Spring boot & Maven
-  - Elastic Search
-  - Junit & Mockito
-  - CI/CD - Jenkins
-  - Apache Kafka 
+  - Java
+  - Python
+  - Spring Boot
+  - Spring Security
+  - Microservices Architecture
+  - Apache Kafka
+  - Solace PubSub+
+  - AWS
+  - Docker
+  - Kubernetes
+  - REST APIs
+  - Event-Driven Architecture
+  - MySQL
+  - PostgreSQL
+  - MongoDB
+  - Elasticsearch
+  - FastAPI
+  - Azure OpenAI
+  - RAG
+  - Vector Embeddings
+  - ChromaDB
+  - LLM
+  - AI Agents
+  - GenAI
+  - System Design
+  - Distributed Systems
+  - CI/CD (Jenkins, GitHub Actions)
 ---
 
+Backend Engineer with 4+ years of experience building scalable Spring Boot microservices and event-driven systems. I specialize in distributed architectures, REST APIs, and asynchronous messaging using Kafka.
 
-I embarked on my journey in the tech during my freshman year at [Lakshmi Narain College Of Technology, Bhopal](https://lnct.ac.in/). I completed my Bachelor's in Computer Science and Engineering from 2017 to 2021, graduating with a commendable aggregate of 86.2%.
+I have hands-on experience with AI systems including RAG, embeddings, and Azure OpenAI. I design end-to-end backend solutions focused on scalability, reliability, and performance.
 
-I am a Dedicated IT professional at [Infosys Ltd.](https://www.infosys.com/), specializing in Java Spring Boot microservices for an airline project since February 2023. This role has provided me with valuable insights into microservices architecture, and I have honed my skills in Java and Spring Boot.
+Currently at [Infosys](https://www.infosys.com), I work on large-scale monorepo architectures with 8+ services, modernizing legacy microservices and implementing event-driven pipelines. I've reduced deployment time by 40% using Docker and CI/CD pipelines, and improved API latency by 20% through caching and async processing.
 
-My journey in the IT industry commenced at [Cognizant Ltd.](https://cognizant.com) In this role, I kickstarted my career as an Infra Developer, specializing in ServiceNow.
+I'm passionate about building systems that can handle high concurrency (1000+ users) and implementing resilience patterns like retry and circuit breaker to ensure system reliability.
 
-I am passionate about leveraging my technical expertise to drive positive impacts on projects and am always eager to explore new challenges and technologies in the dynamic field of software development.
+My journey started at [Lakshmi Narain College of Technology, Bhopal](https://lnct.ac.in/) where I completed my Bachelor's in Computer Science and Engineering (2017-2021) with an aggregate of 86.2%. I also completed a Java Web Developer Nanodegree from Udacity in 2020.
 
-Here are the few technologies I've been experienced with :
+Previously at [Cognizant](https://cognizant.com), I worked on ITSM Suite (Service-Now) with experience in Service Catalog, Incident Management, Change Management, and Problem Management.

@@ -1,39 +1,40 @@
 module.exports = {
-  siteTitle: 'Anupam Haldkar | Software Engineer',
+  siteTitle: 'Anupam Haldkar | Backend Engineer',
   siteDescription:
-    'Software engineer contributing expertise to the dynamic tech landscape with a penchant for blogging.',
+    'Backend Engineer with 4+ years of experience building scalable Spring Boot microservices and event-driven systems. Expertise in distributed architectures, REST APIs, Kafka, and AI/LLM systems including RAG, vector embeddings, and agentic AI.',
   siteKeywords:
-    'Anupam Haldkar, SDE, katni, , Anupam, Haldkar, anupamhaldkar, software engineer, front-end engineer, web developer, javascript, bhopal, smartup',
+    'Anupam Haldkar, Backend Engineer, Spring Boot, Microservices, Java, Kafka, AWS, Docker, Kubernetes, REST APIs, Event-Driven Architecture, Python, FastAPI, Azure OpenAI, RAG, System Design, Distributed Systems, LLM, AI Agents, Vector Embeddings, ChromaDB, Semantic Search, GenAI, Agentic AI, katni, pune, anupamhaldkar',
   siteUrl: 'https://github.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'drtd',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Anupam Haldkar',
-  location: 'Pune, Maharashtra',
+  location: 'Pune, MH',
   email: 'anupam.haldkar@outlook.com',
+  phone: '782-812-5235',
   github: 'https://github.com/anupamhaldkar',
-  twitterHandle: '@AnupamHaldkar',
+  twitterHandle: '@anupamhaldkar',
   socialMedia: [
+    {
+      name: 'Twitter',
+      url: 'https://twitter.com/anupamhaldkar',
+    },
+    {
+      name: 'LinkedIn',
+      url: 'https://www.linkedin.com/in/anupamhaldkar',
+    },
+    {
+      name: 'Medium',
+      url: 'https://anupamhaldkar.medium.com',
+    },
     {
       name: 'GitHub',
       url: 'https://github.com/anupamhaldkar',
     },
     {
-      name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/anupamhaldkar',
-    },
-    {
       name: 'Instagram',
       url: 'https://www.instagram.com/anupamhaldkar',
     },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/intent/follow?screen_name=anupamhaldkar',
-    },
-    {
-      name: 'Medium',
-      url: 'https://anupamhaldkar.medium.com',
-    }
   ],
 
   navLinks: [

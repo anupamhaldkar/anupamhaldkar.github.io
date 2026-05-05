@@ -1,13 +1,10 @@
 ---
 title: 'Hi🖐, My name is'
 name: 'Anupam Haldkar'
-subtitle: 'Tech enthusiast shaping the digital landscape'
+subtitle: 'Backend Engineer | Microservices | AI/LLM'
 buttonText: 'Get In Touch🖐 '
 ---
 
-As a developer, my passion lies in crafting exceptional user experiences. I channel my insights and creativity into content writing within the dynamic realm of technology.
+Backend Engineer with 4+ years of experience building scalable Spring Boot microservices and event-driven systems. Expertise in distributed architectures, REST APIs, Kafka, and AI/LLM systems including RAG, vector embeddings, and agentic AI.
 
-
-Working as Software engineer contributing expertise to the dynamic tech landscape at <a target="_blank" href="https://www.infosys.com">Infosys</a> with a penchant for <a target="_blank" href="https://anupamhaldkar.medium.com">blogging</a>.
-
- 
+Currently working at <a target="_blank" href="https://www.infosys.com">Infosys</a> as a Specialist Programmer, architecting enterprise-grade microservices and AI-powered solutions.

@@ -1,14 +1,17 @@
 ---
 date: '3'
-title: 'RideSharingProject'
-cover: './Annotation 2.png'
-github: 'https://github.com/anupamhaldkar/RideSharingProject'
+title: 'Airline Booking Microservices'
+cover: './airline.png'
+github: 'https://github.com/anupamhaldkar'
 tech:
-  - Kotlin
-  - NetworkService.kt
-  - Google Maps API
+  - Java
+  - Spring Boot
+  - Kafka
+  - Docker
+  - REST APIs
+  - JWT
+  - Microservices
 showInProjects: true
 ---
 
-An Android based project on Cab Service Utilities , MVP Architecture with the help of Google Maps API
-written in kotlin.
+Microservices-based backend for airline workflows with event-driven architecture using Kafka for asynchronous communication.
