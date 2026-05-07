@@ -10,7 +10,9 @@
 
 
 <div align="center">
-  <img alt="Demo" src="./src/images/demo.png" />
+  <!-- <img alt="Demo" src="./src/images/demo.png" /> -->
+  <img width="1271" height="701" alt="image" src="https://github.com/user-attachments/assets/43150a72-5d5e-4027-a372-8f33f86dbe9f" />
+
 </div>
 
 ### TL;DR
